@@ -1,0 +1,21 @@
+/* CSS by Drew Bruner */
+
+/* Color Palette (80's Synthwave by James Menendez at https://color.adobe.com)
+Royal Orchid:   #A8119E
+Dark Magenta:   #8B2A8C
+Bright Amber:   #F5C818
+Turquoise:      #18F5DC
+Verdigris:      #08A896
+Prussian Blue:  #022859
+Dust Gray:      #D8D8D0
+Shadow Gray:    #231F20
+*/
+
+/* Base Style */
+body {
+    background-color: #D8D8D0;
+}
+
+a {
+    color: #08A896;
+}
